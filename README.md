@@ -4,7 +4,11 @@ Learning more about React.
 
 [Docs](https://reactjs.org/docs/getting-started.html)
 
-## 
+## Why React?
+
+- We can write composable code
+- Write components to create a larger more modular code base
+
 
 ### Add React to an existing website
 

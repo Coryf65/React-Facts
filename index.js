@@ -1,3 +1,8 @@
 // We can render things that look like html
+function Welcome(props) 
+{  
+    return <h1>Hello, {props.name}</h1>;
+}
 
-ReactDOM.render(<h2>Hello, from JS and React</h2>, document.getElementById("root"))
+
+ReactDOM.render(<div><Welcome name="cory"/></div>, document.getElementById("root"));
