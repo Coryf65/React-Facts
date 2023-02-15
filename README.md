@@ -6,8 +6,9 @@ Learning more about React.
 
 ## Why React?
 
-- We can write composable code
+- We can write **Composable** code
 - Write components to create a larger more modular code base
+- **Declarative** "Just tell me what to do and I'll get it done" where as Imperative you must tell the computer every step
 
 
 ### Add React to an existing website
